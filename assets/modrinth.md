@@ -1,5 +1,3 @@
-# 📺 VNext Screens
-
 > 🇷🇺 Видео с YouTube и Rutube прямо на экранах в мире — с картинкой до 720p 60 к/с и объёмным звуком.
 > 🇬🇧 YouTube and Rutube videos right on in-world screens — up to 720p 60 fps with positional sound.
 
