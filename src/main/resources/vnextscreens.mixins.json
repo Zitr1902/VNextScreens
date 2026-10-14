@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.vnext.screens.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["SoundOptionsScreenMixin", "MinecraftUseMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

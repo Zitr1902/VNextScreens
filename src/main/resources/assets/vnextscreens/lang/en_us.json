@@ -1,0 +1,23 @@
+{
+  "soundCategory.vnextscreens": "Screen videos",
+  "vnextscreens.menu.title": "Cinema",
+  "vnextscreens.menu.skip": "Skip",
+  "vnextscreens.menu.stop": "Stop",
+  "vnextscreens.menu.confirm": "Sure?",
+  "vnextscreens.menu.url": "Video link (YouTube, Rutube, file)",
+  "vnextscreens.menu.add": "Add",
+  "vnextscreens.menu.loading": "Loading…",
+  "vnextscreens.menu.nothing": "Nothing is playing",
+  "vnextscreens.menu.by": "added by %s",
+  "vnextscreens.menu.queue": "Queue: %s",
+  "vnextscreens.menu.empty": "Queue is empty",
+  "vnextscreens.menu.checking": "checking link…",
+  "vnextscreens.reason.age": "18+ video, YouTube wants sign-in",
+  "vnextscreens.reason.login": "YouTube wants sign-in",
+  "vnextscreens.reason.private": "private video",
+  "vnextscreens.reason.unavailable": "video unavailable (removed, paid or blocked)",
+  "vnextscreens.reason.unsupported": "site is not supported",
+  "vnextscreens.reason.live": "live streams are not supported yet",
+  "vnextscreens.reason.open": "no video at this link",
+  "vnextscreens.reason.other": "could not open"
+}

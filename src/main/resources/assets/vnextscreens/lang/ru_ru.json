@@ -1,0 +1,23 @@
+{
+  "soundCategory.vnextscreens": "Видео на экранах",
+  "vnextscreens.menu.title": "Кинотеатр",
+  "vnextscreens.menu.skip": "Пропустить",
+  "vnextscreens.menu.stop": "Стоп",
+  "vnextscreens.menu.confirm": "Точно?",
+  "vnextscreens.menu.url": "Ссылка на видео (YouTube, Rutube, файл)",
+  "vnextscreens.menu.add": "Добавить",
+  "vnextscreens.menu.loading": "Загрузка…",
+  "vnextscreens.menu.nothing": "Сейчас ничего не играет",
+  "vnextscreens.menu.by": "поставил %s",
+  "vnextscreens.menu.queue": "Очередь: %s",
+  "vnextscreens.menu.empty": "Очередь пуста",
+  "vnextscreens.menu.checking": "проверяю ссылку…",
+  "vnextscreens.reason.age": "видео 18+, YouTube просит войти",
+  "vnextscreens.reason.login": "YouTube просит войти в аккаунт",
+  "vnextscreens.reason.private": "видео приватное",
+  "vnextscreens.reason.unavailable": "видео недоступно (удалено, платное или заблокировано)",
+  "vnextscreens.reason.unsupported": "сайт не поддерживается",
+  "vnextscreens.reason.live": "прямые эфиры пока не поддерживаются",
+  "vnextscreens.reason.open": "по ссылке нет видео",
+  "vnextscreens.reason.other": "не удалось открыть"
+}
